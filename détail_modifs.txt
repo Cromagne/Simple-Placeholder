@@ -1,0 +1,10 @@
+Bonjour. Ceci est le fichier texte dans lequel je détaille ce que j'ai fait dans le cadre de cet exercice.
+
+Dans un premier temps, j'ai créé un nouveau dossier avec mkdir, puis un commit initial avec git init, puis trois fichier avec touch
+-Le fichier README.txt
+-Le fichier script_test.py qui contient le code à compléter au fur et à mesure de l'exercice
+-Ce fichier.
+
+Puis j'ai ajouté ces fichiers à l'index et je les ais commité en utilisant les commandes git add et git commit
+
+Puis j'ai créé un repository sur Github. J'y ai envoyé les fichiers cités grâce à la commande git remote <nom_du_fichier> <URL du dépot>
